@@ -366,3 +366,4 @@ Current test coverage in `Backend/tests/test_query_security.py` verifies:
 
 This project is designed as a secure baseline. You can extend it with tenant isolation, attribute-based access control (ABAC), and audit trails while preserving the same backend-enforced trust model.
 # Zero-Trust-Rag
+# Zero-Trust-Rag
