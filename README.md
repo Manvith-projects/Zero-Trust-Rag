@@ -75,3 +75,4 @@ See [auth/README.md](auth/README.md).
 - Never expose unauthorized content to the browser.
 - Never let the LLM access the vector database directly.
 # Zero-Trust-Rag
+# Zero-Trust-Rag

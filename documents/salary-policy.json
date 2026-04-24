@@ -1,0 +1,6 @@
+{
+  "allowed_roles": [
+    "HR_Manager",
+    "Admin"
+  ]
+}
